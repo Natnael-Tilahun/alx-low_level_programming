@@ -1,4 +1,5 @@
 #include "main.h"
+int _putchar(char c);
 int main(void)
 {
 char d[8] = "_putchar";
