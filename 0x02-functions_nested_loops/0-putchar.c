@@ -1,4 +1,4 @@
-#include "_putchar.h"
+#include "main.h"
 int main(void)
 {
 char c[8] = "_putchar";
