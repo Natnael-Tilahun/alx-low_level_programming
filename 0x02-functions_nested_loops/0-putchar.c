@@ -1,6 +1,9 @@
-#include <stdio.h>
+#include "_putchar.h"
 int main(void)
 {
-printf("_putchar\n");
+char c[8] = "_putchar";
+for (int i = 0; i < 8; i++)
+_putchar(c[i]);
+_putchar('\n');
 return (0);
 }
