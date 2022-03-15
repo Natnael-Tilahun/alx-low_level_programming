@@ -1,5 +1,5 @@
-#ifndef 1-ALPHABET
-#define 1-ALPHABET
+#ifndef 1-alphabet.h
+#define 1-alphabet.h
 
 void print_alphabet(void);
 
