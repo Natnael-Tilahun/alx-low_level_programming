@@ -9,7 +9,7 @@
 =======
  * _islower - Short description, single line
  * @c: contains value to be compared
- * Return: Always 0.
+ * Return: Always .
  */
 >>>>>>> 826e23a0db881900954759bc4a6a6fccf5460651
 
