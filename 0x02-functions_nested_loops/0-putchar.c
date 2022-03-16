@@ -1,4 +1,11 @@
 #include "main.h"
+
+/**
+ * main - Entry point
+ *
+ * Return: nothing, return void
+ */
+
 int main(void)
 {
 char d[8] = "_putchar";
