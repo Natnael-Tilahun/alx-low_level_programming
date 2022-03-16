@@ -1,5 +1,5 @@
 #include "main.h"
-#include "1-alphabet.h"
+#include "alphabet.h"
 void print_alphabet(void)
 {
 char letter;
