@@ -1,8 +1,8 @@
 #include "main.h"
 
 int _isalpha(int c){
-char d;
- if ((d > 'a' && d < 'z') || (d > 'A' && d < 'Z'))
+
+if ((c > 'a' && c < 'z') || (c > 'A' && c < 'Z'))
 {
 return (1);
 }
