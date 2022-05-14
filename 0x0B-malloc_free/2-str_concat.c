@@ -7,7 +7,7 @@
  * @s2 : second string
  *
  *
- * Return : pointer of array of chars
+ * Return: pointer of an array of chars
  */
 
 char *str_concat(char *s1, char *s2)
