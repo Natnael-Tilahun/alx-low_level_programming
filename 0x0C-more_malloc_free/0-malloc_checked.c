@@ -2,9 +2,10 @@
 
 /**
  * malloc_checked - return an array for prints a string
- *
  * @b: size of memory
- * Return : void
+ *
+ *
+ * Return: void
  */
 
 void *malloc_checked(unsigned int b)
