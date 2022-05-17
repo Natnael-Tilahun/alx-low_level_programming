@@ -1,4 +1,4 @@
-x#include "main.h"
+#include "main.h"
 
 /**
  * _calloc - allocates momory for an array
