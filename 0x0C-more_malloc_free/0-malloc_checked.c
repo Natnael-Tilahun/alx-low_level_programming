@@ -14,7 +14,8 @@ void *n;
 n = malloc(b);
 
 if (b == NULL)
+{
 exit(98);
-
+}
 return (n);
 }
