@@ -5,12 +5,9 @@
  *
  * @s1: the first string
  * @s2: the second string
- * @n: size of memory
+ * @n: char size of the second string to be concatinated
  *
- * Return : pointer
- *
- *
- *
+ * Return: char pointer
  */
 
 char *string_nconcat(char *s1, char *s2, unsigned int n)
