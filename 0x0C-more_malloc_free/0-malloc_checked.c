@@ -1,17 +1,19 @@
 #include "main.h"
-#include <stdlib.h>
 
 /**
- * malloc_checked - return a pointer of a reserved memory
+ * malloc_checked - return an array for prints a string
  *
- * @b: unsigned int
- * Return : a pointer
+ * @b: size of memory
+ * Return : void
  */
 
 void *malloc_checked(unsigned int b)
 {
-unsigned int *n;
-n = malloc(sizeof(int) * b);
+void *n;
+n = malloc(b);
+
 if (b == NULL)
-return (98);
+exit(98);
+
+return (n);
 }
