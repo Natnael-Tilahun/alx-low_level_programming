@@ -1,0 +1,20 @@
+#include "main.h"
+
+/**
+ * string_nconcat - concatinate and store on newly allocated  momory
+ *
+ * @s1: the first string
+ * @s2: the second string
+ * @n: size of memory
+ *
+ * Return : pointer
+ *
+ *
+ *
+ */
+
+char *string_nconcat(char *s1, char *s2, unsigned int n)
+{
+char *con;
+con = malloc(sizeof(char) * n);
+}
