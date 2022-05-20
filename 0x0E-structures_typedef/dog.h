@@ -2,10 +2,9 @@
 #define DOG_H
 
 /**
- * dog_t - typedef for dog struct
+ * dog_t - Typedef for dog
  *
  */
-
 typedef struct dog dog_t;
 
 /**
