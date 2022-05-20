@@ -19,6 +19,4 @@ float age;
 char *owner;
 };
 
-dog_t *new(char *name, float age, chat *owner);
-
 #endif
