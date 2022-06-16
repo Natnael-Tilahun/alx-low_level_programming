@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -c -Wall -Werror -fPIC *.c
-gcc -shared -o liball.so *.o
+gcc *.o -fPIC -shared -o libruin.so
+LD_PRELOAD=$PWD/libruin.so
